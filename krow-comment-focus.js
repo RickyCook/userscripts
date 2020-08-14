@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  Focus on comment fields when opened
 // @author       Ricky Cook <ricky.cook@cmd.com.au>
+// @updateURL    https://raw.githubusercontent.com/RickyCook/userscripts/master/krow-comment-focus.js
+// @downloadURL  https://raw.githubusercontent.com/RickyCook/userscripts/master/krow-comment-focus.js
 // @match        https://\*.visual.force.com/\*
 // @grant        none
 // @run-at       document-idle
