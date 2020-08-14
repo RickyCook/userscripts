@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krow focus comments
 // @namespace    https://thatpanda.com/
-// @version      0.1
+// @version      1.0.0
 // @description  Focus on comment fields when opened
 // @author       Ricky Cook <ricky.cook@cmd.com.au>
 // @match        https://\*.visual.force.com/\*
